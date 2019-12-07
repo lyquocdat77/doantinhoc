@@ -1,0 +1,12 @@
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\bin\Debug\test1111111111.exe.config
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\bin\Debug\test1111111111.exe
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\bin\Debug\test1111111111.pdb
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.csprojAssemblyReference.cache
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.Form1.resources
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.frmSach.resources
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.frmTacgia.resources
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.Properties.Resources.resources
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.csproj.GenerateResource.cache
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.exe
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.pdb
+C:\Users\nguoi\Desktop\test1111111111\test1111111111\obj\Debug\test1111111111.frmNhaxuatban.resources
